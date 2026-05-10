@@ -1,0 +1,15 @@
+
+
+
+<resources>
+
+    <string name="app_name">Tactical System</string>
+
+    <string name="location">Location</string>
+    <string name="sensor_data">Sensor Data</string>
+
+    <string name="get_location">Get Location</string>
+    <string name="get_esp32">Get ESP32 Data</string>
+    <string name="send_sos">Send SOS</string>
+
+</resources>
